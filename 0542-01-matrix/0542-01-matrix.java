@@ -6,7 +6,7 @@ class Solution {
 
         Queue<int[]> q = new LinkedList<>();
 
-        // Add all 0s as starting points
+       
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 if (mat[i][j] == 0) {
@@ -17,7 +17,7 @@ class Solution {
             }
         }
 
-        // Multi-source BFS
+       
         while (!q.isEmpty()) {
 
             int[] curr = q.poll();
