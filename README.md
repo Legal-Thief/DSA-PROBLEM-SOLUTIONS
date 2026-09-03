@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0127-word-ladder](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0207-course-schedule) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0127-word-ladder) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -221,4 +223,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0785-is-graph-bipartite) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0127-word-ladder) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
