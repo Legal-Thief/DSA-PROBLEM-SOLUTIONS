@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0994-rotting-oranges) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0785-is-graph-bipartite) |
 | [2685-count-the-number-of-complete-components](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0785-is-graph-bipartite) |
 | [2685-count-the-number-of-complete-components](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/2685-count-the-number-of-complete-components) |
 ## Divide and Conquer
 |  |
@@ -204,4 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0994-rotting-oranges) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
