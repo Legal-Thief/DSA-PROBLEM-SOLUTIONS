@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3467-transform-array-by-parity](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/3467-transform-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/1020-number-of-enclaves) |
+| [3467-transform-array-by-parity](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/3467-transform-array-by-parity) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -241,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0126-word-ladder-ii) |
+## Counting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
