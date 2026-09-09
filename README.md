@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3467-transform-array-by-parity](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/3467-transform-array-by-parity) |
 ## Binary Search
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0200-number-of-islands) |
+| [0455-assign-cookies](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0724-find-pivot-index) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0061-rotate-list) |
+| [0455-assign-cookies](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0455-assign-cookies) |
 ## Topological Sort
 |  |
 | ------- |
@@ -256,4 +259,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0724-find-pivot-index) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
