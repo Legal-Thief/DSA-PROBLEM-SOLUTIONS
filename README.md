@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0455-assign-cookies](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0542-01-matrix) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0061-rotate-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0455-assign-cookies) |
 ## Topological Sort
 |  |
