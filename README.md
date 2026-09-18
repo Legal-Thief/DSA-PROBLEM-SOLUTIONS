@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0058-length-of-last-word) |
 | [0126-word-ladder-ii](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0127-word-ladder) |
+| [0796-rotate-string](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0796-rotate-string) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -298,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
