@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
+| [0704-binary-search](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0875-koko-eating-bananas) |
