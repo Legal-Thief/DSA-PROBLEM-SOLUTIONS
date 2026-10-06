@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -341,4 +342,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0012-integer-to-roman) |
+| [0069-sqrtx](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
