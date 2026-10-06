@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1631-path-with-minimum-effort](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1631-path-with-minimum-effort](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 | [3467-transform-array-by-parity](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/3467-transform-array-by-parity) |
 ## Monotonic Stack
