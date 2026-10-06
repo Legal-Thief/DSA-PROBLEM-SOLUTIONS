@@ -9,7 +9,7 @@ class Solution {
 
     public int smallestDivisor(int[] nums, int threshold) {
         int low = 1;
-        int high = getMax(nums);
+        int high = 1_000_000;
         while (low <= high) {
             int mid = low + (high - low) / 2;
 
