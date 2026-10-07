@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0542-01-matrix) |
 ## DP on Trees
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0088-merge-sorted-array) |
+| [0435-non-overlapping-intervals](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3467-transform-array-by-parity](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/3467-transform-array-by-parity) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0542-01-matrix) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
