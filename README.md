@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0057-insert-interval) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
