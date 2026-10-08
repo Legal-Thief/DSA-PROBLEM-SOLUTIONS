@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0724-find-pivot-index) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Greedy
 |  |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## String Matching
 |  |
 | ------- |
