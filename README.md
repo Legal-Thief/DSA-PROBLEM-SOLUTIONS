@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 ## DP on Trees
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0145-binary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Lifting
 |  |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0058-length-of-last-word) |
 | [0126-word-ladder-ii](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0127-word-ladder) |
+| [0678-valid-parenthesis-string](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0796-rotate-string) |
 ## Bidirectional Search
 |  |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0860-lemonade-change) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Quicksort
@@ -376,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0069-sqrtx) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
