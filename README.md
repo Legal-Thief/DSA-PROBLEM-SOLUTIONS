@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3467-transform-array-by-parity](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/3467-transform-array-by-parity) |
 ## Binary Search
 |  |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3467-transform-array-by-parity](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/3467-transform-array-by-parity) |
 ## Monotonic Stack
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0455-assign-cookies) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Topological Sort
 |  |
 | ------- |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0724-find-pivot-index) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Greedy
 |  |
 | ------- |
@@ -327,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0860-lemonade-change) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Quicksort
 |  |
 | ------- |
@@ -336,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
