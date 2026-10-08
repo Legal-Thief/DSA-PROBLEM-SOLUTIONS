@@ -1,29 +1,34 @@
 class Solution {
     public int candy(int[] ratings) {
-
         int n = ratings.length;
+        if (n == 0) return 0;
 
-        int[] candy = new int[n];
-        Arrays.fill(candy, 1);
+        int sum = 1;
+        int i = 1;
 
-        
-        for (int i = 1; i < n; i++) {
-            if (ratings[i] > ratings[i - 1]) {
-                candy[i] = candy[i - 1] + 1;
+        while (i < n) {
+            if (ratings[i] == ratings[i - 1]) {
+                sum += 1;
+                i++;
+                continue;
             }
-        }
 
-       
-        for (int i = n - 2; i >= 0; i--) {
-            if (ratings[i] > ratings[i + 1]) {
-                candy[i] = Math.max(candy[i], candy[i + 1] + 1);
+            int up = 0;
+            while (i < n && ratings[i] > ratings[i - 1]) {
+                up++;
+                sum += up + 1;   
+                i++;
             }
-        }
 
-        int sum = 0;
+            int down = 0;
+            while (i < n && ratings[i] < ratings[i - 1]) {
+                down++;
+                sum += down;    
+                i++;
+            }
 
-        for (int x : candy) {
-            sum += x;
+            
+            sum += Math.max(0, down - up);
         }
 
         return sum;
