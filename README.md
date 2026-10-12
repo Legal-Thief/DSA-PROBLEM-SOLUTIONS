@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0012-integer-to-roman) |
+| [0076-minimum-window-substring](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0127-word-ladder) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0904-fruit-into-baskets) |
