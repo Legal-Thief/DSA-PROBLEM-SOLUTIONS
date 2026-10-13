@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0035-search-insert-position) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0061-rotate-list) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0134-gas-station) |
