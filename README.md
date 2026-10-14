@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0455-assign-cookies) |
+| [0912-sort-an-array](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3467-transform-array-by-parity](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/3467-transform-array-by-parity) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0912-sort-an-array](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0912-sort-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0912-sort-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Dijkstra's Algorithm
@@ -411,4 +415,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
