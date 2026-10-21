@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0057-insert-interval) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0051-n-queens) |
 | [0126-word-ladder-ii](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0126-word-ladder-ii) |
 ## Counting
 |  |
@@ -431,4 +433,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0912-sort-an-array) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
