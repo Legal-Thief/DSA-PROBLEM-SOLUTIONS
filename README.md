@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0077-combinations) |
 | [0126-word-ladder-ii](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0126-word-ladder-ii) |
 ## Counting
 |  |
