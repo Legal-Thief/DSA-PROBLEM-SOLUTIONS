@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
+| [1137-n-th-tribonacci-number](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/1137-n-th-tribonacci-number) |
 ## DP on Trees
 |  |
 | ------- |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/1137-n-th-tribonacci-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -453,4 +455,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Legal-Thief/DSA-PROBLEM-SOLUTIONS/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
